@@ -8,7 +8,7 @@ The purpose of this project was to build a page that scapes data from a UFO data
 
 In order to use this filter you need to type in the particular data point that you want to filter by: Date, State, Country, Shape of UFO, or City, in the corresponding box. The data will then return only the sightings that match the filters used. See picture below
 
-[Example.png]()
+![Example.png](https://github.com/crabrandoom/UFOS/blob/main/Example.PNG)
 
 ## Summary
 
